@@ -1,5 +1,5 @@
 # Overview
-Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Navigating Growth and Change (O'Reilly)](https://www.amazon.com.au/Manager%60s-Path-Camille-Fournier/dp/1491973897)
+Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Navigating Growth and Change, Camille Fournier (O'Reilly)](https://www.amazon.com.au/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 
 ## Management 101
 - 1-on-1 Meetings
@@ -72,8 +72,7 @@ launch of this big project)
     - Reality rarely matches up to expectations with both roles
     - There are pros and cons to each, try both and pick one that you enjoy the most
 - Process Czars
-    - _"The process czar believes that there is one true process that, if implemented cor-
-rectly and followed as designed, will solve all of the team’s biggest problems."_
+    - _"The process czar believes that there is one true process that, if implemented correctly and followed as designed, will solve all of the team’s biggest problems."_
     - The opposite of this is a manager who realises that processes should meet the needs of the team and the project
     - Strive for self-regulating processes (i.e. automation)
     - Be honest and make it clear to the team that it is okay to fail
@@ -85,7 +84,33 @@ projects well when you don’t understand the architecture you’re changing."_
     - _"Determine which decisions must be made by you, which decisions should be
 delegated to others with more expertise, and which decisions require the whole
 team to resolve."_
-    - _"Write design documents
-and get feedback on them from better writers. Write blog posts for your tech blog
-or your personal blog. Speak in team meetings, speak at meetups, and get prac-
-tice standing up in front of an audience."_
+    - _"Write design documents and get feedback on them from better writers. Write blog posts for your tech blog or your personal blog. Speak in team meetings, speak at meetups, and get practice standing up in front of an audience."_
+
+## Managing People
+
+- Build trust and rapport using questions for a new report
+    - How do you like to be praised, in public or in private?
+    - What is your preferred method of communication for serious feedback?
+Do you prefer to get such feedback in writing so you have time to digest it,
+or are you comfortable with less formal verbal feedback?
+    - Do you have any clear career goals that I should know about so I can help
+you achieve them?
+- Create a 30/60/90 day plan
+    - Can help detect mishires quickly
+    - Create realistic milestones based on prior hires, the current state of your technology and project, and the level of the person coming in
+- _"A best practice in many engineering teams is to create a set of onboarding documents that are edited by every new hire as he gets up to speed"_
+- Communicate working style and expectations around frequency of check-ins, deliverables etc.
+- Get as much feedback as you can from the new hire in the first 90 days on established processes and potential improvements
+- Schedule weekly 1-on-1s. Some questions to consider which can alter the frequency:
+    - How often do you interact with this person offhand during the week?
+    - How much coaching does this person need?
+    - How much does this person push information up to you?
+    - How stable or unstable are things in the team or the company?
+- 1-on-1s can be of many types: formal to-do lists for discussion, informal catch-ups, occasional feedback / coaching sessions, and progress updates for managers of managers
+- For each person you manage, maintain a running shared document of notes, takeaways, and to-dos from your 1-1s.
+- Practical advice for delegating
+    - Ensure team has valid goals to measure success against, use these to understand what details are important to dig into
+    - Look at the version control systems or tickets for information, subscribe to any available alerts and examine the metrics
+    - Different details are the priority at different project stages (good system design and goal-setting at first, progress details towards the end) - focus on the right detail at the right stage
+    - Establish standards for code and systems (unit test coverage, linting, review of major technical decisions)
+    - Treat openly shared information, good or bad, in a positive manner (for instance, a struggling colleague doesn't reveal this until late in the project)
