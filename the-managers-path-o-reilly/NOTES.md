@@ -1,7 +1,15 @@
 # Overview
 Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Navigating Growth and Change, Camille Fournier (O'Reilly)](https://www.amazon.com.au/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 
-## Management 101
+## Table of Contents
+
+- [Management 101](#management-101-)
+- [Mentoring](#mentoring-)
+- [Tech Lead](#tech-lead-)
+- [Managing People](#managing-people-)
+- [Managing a Team](#managing-a-team-)
+
+## Management 101 [&#8593;](#table-of-contents)
 - 1-on-1 Meetings
     - For individual contributors, 1-on-1s with their managers should not be used as status meetings
     - Take initiative to craft an agenda for these meetings
@@ -10,7 +18,7 @@ Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Na
 the onus of figuring out what you want to do, what you want to learn, and what
 will make you happy rests on your shoulders."_
 
-## Mentoring
+## Mentoring [&#8593;](#table-of-contents)
 - Mentoring Interns
     - Many companies match new interns and grads with an existing employee as mentor
     - Usually a safe way of learning how to manage someone else
@@ -36,7 +44,7 @@ given very little guidance beyond the fact that they have been matched together.
     - Don't hire an intern who is not close to graduation - interns are a way to attract and retain top talent, look for someone closer to committing to their first full-time role
     - Hiring interns is relatively easier - you can push for hiring candidates from underrepresented groups
 
-## Tech Lead
+## Tech Lead [&#8593;](#table-of-contents)
 - No one-size-fits-all definition for this role
     - Tech leads continue to write code, represent their team to management, vet feature delivery plans and deal with project management
     - _"A leader, responsible for a (software) development team, who spends at least 30 percent of their time writing code with the team."_ (Talking with Tech Leads, Patrick Kua)
@@ -71,7 +79,7 @@ in and seeing what happens."_
     - _"Determine which decisions must be made by you, which decisions should be delegated to others with more expertise, and which decisions require the whole team to resolve."_
     - _"Write design documents and get feedback on them from better writers. Write blog posts for your tech blog or your personal blog. Speak in team meetings, speak at meetups, and get practice standing up in front of an audience."_
 
-## Managing People
+## Managing People [&#8593;](#table-of-contents)
 
 - Build trust and rapport using questions for a new report
     - How do you like to be praised, in public or in private?
@@ -92,10 +100,36 @@ you achieve them?
     - How much does this person push information up to you?
     - How stable or unstable are things in the team or the company?
 - 1-on-1s can be of many types: formal to-do lists for discussion, informal catch-ups, occasional feedback / coaching sessions, and progress updates for managers of managers
-- For each person you manage, maintain a running shared document of notes, takeaways, and to-dos from your 1-1s.
+- For each person you manage, maintain a running shared document of notes, takeaways, and to-dos from your 1-1s
+- Creative, talented team members flourish with sufficient autonomy. Delegate effectively, but don't confuse this with abdicating responsibility
 - Practical advice for delegating
     - Ensure team has valid goals to measure success against, use these to understand what details are important to dig into
     - Look at the version control systems or tickets for information, subscribe to any available alerts and examine the metrics
     - Different details are the priority at different project stages (good system design and goal-setting at first, progress details towards the end) - focus on the right detail at the right stage
     - Establish standards for code and systems (unit test coverage, linting, review of major technical decisions)
     - Treat openly shared information, good or bad, in a positive manner (for instance, a struggling colleague doesn't reveal this until late in the project)
+- Adopt a culture of frequent feedback in the team, praising the good and correcting the bad without waiting for the annual reviews
+    - Know your team: ask them about their ambitions, current level, strengths, weaknesses
+    - Observe your team: try to recognise one positive trait in your colleague each week. Don't spend all your time trying to correct weakness as that can come off as undue criticism.
+    - Give regular, lightweight feedback: positive feedback makes it easier for colleagues to digest corrective feedback when required
+    - Provide coaching: Go beyond the simple "good job" and help your report grow professionally by showing what could be done differently
+- 360-model performance review includes input from colleagues, other reports to that person, as well as a self-review
+- Writing a summary review for a report is a chance to look at the bigger picture and notice trends in their development over a period of time
+    - Devote enough time: digest peer reviews, form your own summary
+    - Focus on the larger picture: don't keep just the last couple of months in mind
+    - Provide specific examples, excerpts from peer reviews
+    - Don't skip over the good stuff: celebrate achievements with ample praise
+    - Stay focused when it comes to corrective feedback: review constructive feedback from peers and ensure it's valuable to your report before sharing it and not just a grudge against them
+- _"What about the case where you have very little meaningful feedback for
+improvement? This indicates that the person is ready to be promoted or given
+more challenging work"_
+- Convey expectations prior to review (for e.g. inform underperformers in advance)
+- For scored reviews, prepare with examples why the person is scoring less than a perfect score as it can be an uncomfortable discussion
+- As a manager you'll play a key role in promoting your reports, and presenting their case to upper management or a committee
+- _"Many companies expect you to be acting at the next level before you get promoted to it. This practice exists to prevent the “Peter Principle,” in which people are promoted to their level of incompetence."_
+- Firing an underperformer is probably one of the more challenging tasks for a manager
+- Usually, HR processes will put the employee on a _performance improvement plan_, which is a set of clearly defined objectives that the person must achieve within a fixed period of time
+- _"Depending on the company, such a plan might actually be an effort to turn an employee around, but often the plan is written in such a way that the person can’t possibly hope to achieve the goals in the allotted time, and it’s just a generous way of giving someone time to look for another job before being fired."_
+- Make it clear early and often if a report is not performing at the expected level so there are no surprises, and keep records of the feedback delivered
+
+## Managing a Team [&#8593;](#table-of-contents)
