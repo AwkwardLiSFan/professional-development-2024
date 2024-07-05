@@ -139,4 +139,4 @@ more challenging work"_
     - Not shipping frequently: this can hint at multiple reasons like inadequate tooling and automation, or not breaking down work into smaller pieces properly
     - People drama: talk to vocally negative people that the behavior has to change, bring clear examples, and provide corrective feedback quickly after things happen
     - Overwork: learn from crunch periods and try to prevent them - cut features if you can, and push back on unrealistic deadlines
-    - Collaboaration issues: have productive conversations about improvements, encourage team bonding apart from work topics
+    - Collaboration issues: have productive conversations about improvements, encourage team bonding apart from work topics
