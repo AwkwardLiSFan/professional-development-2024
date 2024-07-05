@@ -133,3 +133,10 @@ more challenging work"_
 - Make it clear early and often if a report is not performing at the expected level so there are no surprises, and keep records of the feedback delivered
 
 ## Managing a Team [&#8593;](#table-of-contents)
+
+- _"If you truly wish to command the respect of an engineering team, they must see you as technically credible. It’s hard to make up lost time when you stop writing code, and if you do it too early in your career, you may never achieve sufficient technical savvy to get beyond the role of middle management."_
+- Look out for dysfunctions in teams:
+    - Not shipping frequently: this can hint at multiple reasons like inadequate tooling and automation, or not breaking down work into smaller pieces properly
+    - People drama: talk to vocally negative people that the behavior has to change, bring clear examples, and provide corrective feedback quickly after things happen
+    - Overwork: learn from crunch periods and try to prevent them - cut features if you can, and push back on unrealistic deadlines
+    - Collaboaration issues: have productive conversations about improvements, encourage team bonding apart from work topics
