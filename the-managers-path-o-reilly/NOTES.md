@@ -8,6 +8,7 @@ Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Na
 - [Tech Lead](#tech-lead-)
 - [Managing People](#managing-people-)
 - [Managing a Team](#managing-a-team-)
+- [Managing Multiple Teams](#managing-a-team-)
 
 ## Management 101 [&#8593;](#table-of-contents)
 - 1-on-1 Meetings
@@ -140,3 +141,22 @@ more challenging work"_
     - People drama: talk to vocally negative people that the behavior has to change, bring clear examples, and provide corrective feedback quickly after things happen
     - Overwork: learn from crunch periods and try to prevent them - cut features if you can, and push back on unrealistic deadlines
     - Collaboration issues: have productive conversations about improvements, encourage team bonding apart from work topics
+- As a manager, you may be a shield but don't be a parent. Sometimes it is good to be transparent to the team about issues (layoffs, knock-on effects if a deadline isn't met etc.) if it provides additional context to their work.
+- Make data-driven decisions on product features using measures such as time taken to complete features, numbers of bugs found in Q/A or time spent dealing with outages
+- Look into the future of the product roadmap when making technical decisions. Review the efficiency of the decisions made to learn from past decisions
+- _"Conflict-avoidant managers tend to favor harmony above functional working relationships. Creating a safe environment for disagreement to work itself out is far better than pretending that all disagreement does not exist."_
+- Tips on managing conflict:
+    - Don't rely solely on voting, as everyone involved may not be impartial to the various outcomes
+    - A clear set of processes for decision making can depersonalize decisions
+    - You should be aware of any issues within the team in advance
+    - Don't blame problems on other teams
+    - _"Your goal as a manager, however, should not be to be nice, it should be to be kind."_
+- _"The best way to avoid brilliant jerk syndrome is to simply not hire one."_
+- Project Management rules of thumb:
+    - _"Don’t expect to get more than 10 weeks’ worth of focused effort on the main projects per team member per quarter"_
+    - _"Budget 20% of time for generic sustaining engineering work across the board (testing, debugging, cleaning up legacy code)"_
+    - _"As you approach deadlines, it is your job to say no"_
+    - _"Use the doubling rule for quick estimates, but push for planning time to estimate longer tasks"_
+    - _"Be selective about what you bring to the team to estimate"_
+
+## Managing Multiple Teams [&#8593;](#table-of-contents)
