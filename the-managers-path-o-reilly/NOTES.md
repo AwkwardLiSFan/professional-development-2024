@@ -8,7 +8,7 @@ Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Na
 - [Tech Lead](#tech-lead-)
 - [Managing People](#managing-people-)
 - [Managing a Team](#managing-a-team-)
-- [Managing Multiple Teams](#managing-a-team-)
+- [Managing Multiple Teams](#managing-multiple-teams-)
 
 ## Management 101 [&#8593;](#table-of-contents)
 - 1-on-1 Meetings
