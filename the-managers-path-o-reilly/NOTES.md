@@ -160,3 +160,41 @@ more challenging work"_
     - _"Be selective about what you bring to the team to estimate"_
 
 ## Managing Multiple Teams [&#8593;](#table-of-contents)
+
+- At this point, it becomes difficult to keep writing code with the same frequency as a tech lead or team manager
+- Code reviews, debugging, and prod support are good ways to stay engaged with the codebase
+- _"I advocate strongly that you spend the time to gain mastery of programming before moving into management. For me, this took about 10 years, including my undergraduate and graduate degrees."_
+- For efficient time management, break down tasks into four categories:
+
+
+|               |   Not Urgent  |  Urgent |
+|---------------|:-------------:|--------:|
+| Important     |               |         |
+| Not Important |               |         |
+
+
+- Attend internal meetings where possible to gauge team morale, track progress on deliverables
+- Decide how to delegate work effectively:
+
+
+|               |   Frequent               |  Infrequent                      |
+|---------------|:------------------------:|---------------------------------:|
+| Simple        |   Delegate               |     DIY                          |
+| Complex       |   Delegate (carefully)   | Delegate for training purposes   |
+
+- _"Are your teams learning how to operate independently, or are you keeping them dependent on you for critical functions?"_
+- Learn when to say "No":
+    - Use the "Yes, and" technique to respond with positivity instead of saying "no" directly
+    - Create policies to outline requirements that must be met to say "yes" (such as switching to a new programming language)
+    - Adopt a "help me say yes" attitude and dig into suggestions with follow-up questions
+    - Lay out the workload and budget to the team to show there is little room to maneuver
+    - When you know you need to decline, it's best to do it quickly. Remain open to apologizing and learning from your mistake if you were wrong
+- _"These health signals — frequency of code releases, frequency of code check-ins, and infrequency of incidents — are the key indicators of a team that knows what to do, has the tools to do it, and has the time to do it every day."_
+- Overfocusing on prevention of incidents is almost as detrimental as releasing unstable code in that both reduce your team's ability to produce their best possible work
+- _"Durable teams are built on a shared purpose that comes from the company itself, and they align themselves with the company’s values"_
+    - Durable teams are resilient to the loss of individual team members
+    - Open to new ideas and value changes if this serves the purpose better
+    - Understand that peers across the company are your 'first-team' and not just your direct reports
+- Channel the traits of “laziness, impatience, and hubris” into advantanges
+    - _"Be impatient to figure out the nut of what’s important. As a leader, any time you see something being done that feels inefficient, question it."_
+    - _"Go home! And stop emailing people at all hours of the night and all hours of the weekend!"_
