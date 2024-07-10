@@ -9,6 +9,7 @@ Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Na
 - [Managing People](#managing-people-)
 - [Managing a Team](#managing-a-team-)
 - [Managing Multiple Teams](#managing-multiple-teams-)
+- [Managing Managers](#managing-managers-)
 
 ## Management 101 [&#8593;](#table-of-contents)
 - 1-on-1 Meetings
@@ -198,3 +199,74 @@ more challenging work"_
 - Channel the traits of “laziness, impatience, and hubris” into advantanges
     - _"Be impatient to figure out the nut of what’s important. As a leader, any time you see something being done that feels inefficient, question it."_
     - _"Go home! And stop emailing people at all hours of the night and all hours of the weekend!"_
+
+
+## Managing Managers [&#8593;](#table-of-contents)
+
+- As a new manager in this role, keep in touch more frequently with all teams (even those outside your skillset) as you can't sense intuitively (yet) where things may be going off the rails
+- _"The open-door policy is nice in theory, but it takes an extremely brave engineer to willingly take the risk of going to her boss (or especially her boss’s boss, etc.) to tell him about problems."_
+- Skip-level meetings (short 1-on-1s, perhaps each quarter) are a critical way to build a relationship with the developers who report to your managers. Suggested prompts:
+    - What do you like best/worst about the project you are working on?
+    - Do you have any feedback about your manager — what’s going well, what isn’t?
+    - Are there any opportunities you think we might be missing?
+    - How do you think the organization is doing overall? Anything we could be doing better/more/less?
+    - Are there any areas of the business strategy you don’t understand?
+- Note that skip-level meetings don't scale well, and will potentially have to be abandoned if the organization grows by a large figure (thousands of employees)
+    - One way around this could be informal team lunches once or twice a quarter to get some feedback from groups and observe team dynamics
+- _"Skip-level meetings are a chance to hear the other side of the story, to get a reality check from the people on the ground."_
+- Managers reporting to you are responsible for the success of the team even when external factors are affecting them, such as:
+    - Unstable product roadmap, frequent requests for changes
+    - Errant tech lead who goes down rabbit holes
+    - Full time firefighting to maintain stability of systems, constant requests from other divisions for support
+- People pleasing managers can be of two types:
+    - team pleasers play therapist, can amplify drama, be well-liked amongst colleagues and may never get around to fixing all the problems
+    - external pleasers shield upper management from issues within the team, and avoid having serious conversations with their team members
+- _"When you’re managing a people pleaser, one of the best things you can do is show the person that he’s exhibiting the behavior, and highlight the downsides."_
+- _"A new manager who is working all the time is probably failing to hand off her old responsibilities to other people on her team, and so she’s attempting to do two jobs at once."_
+- A manager who dominates decision making is just as bad as a manager overworking herself
+- _"Making the wrong person a manager is a mistake, but keeping her in that position once you’ve realize she’s wrong for it is a critical error."_
+- Leverage professional training programs and conferences to train new managers in technical leadership
+- It is vital for managers to be a "culture-fit" because they create sub-cultures within their teams, and an alignment of subcultures is required for teams to work well together
+    - _"It’s easier to gain access to industry information than it is to retrain someone who doesn’t know how to work in your culture."_
+- Few ways to test potential new managerial hires:
+    - Role-play 1-on-1s
+    - Role-play difficult situations like dealing with an underperforming employee
+    - Ask behavioural questions about past experienced running behind schedule on projects
+    - Deliver a presentation to a group of people to check her structuring of thoughts, command of the room, and ability to speak up in front of an audience
+    - Design / system architecture questions
+    - _"Do thorough reference checks for anyone you’re planning to bring on board, even if you’ve worked with that person before."_
+- Great managers share their drive to uncover the "why" behind problems with great debuggers
+    - Devise a hypothesis about why the team is having issues
+    - Check team chats, emails, logs, calendars - are they collaborating well together? Too many meetings?
+    - Observe team meetings, see if all members are involved
+    - Ask the team about their goals, and clarity around why they have these goals
+    - Make note of team dynamics and whether the members have a degree of personal connection with each other
+    - Jump in to help if the manager is struggling
+    - _"Without the drive to understand why, we rely on charm and luck to see us through our management careers and to make our hiring and firing decisions."_
+- _"Engineers often don’t want to estimate at all, or estimate beyond the boundary of an agile sprint (generally two weeks)...Estimates are still useful as they"_
+    - convey feature complexity to the rest of the team
+    - help businesses predict costs and effort
+    - teach engineers to better understand the complexity of their software
+- _"When estimates are wrong, what are we learning about unknown complexity? What are we learning about what is worth estimating, when? What are we learning about how we communicated those estimates and who was disappointed by the miss?"_
+    - Keep the client updated with any changes to the timeline
+    - Show empathy to others and shift focus from blame to action
+    - Work with managers and tech leads to cut scope
+- Roadmap uncertainty is a common problem across companies:
+    - Be prepared for changes given the size and state of your company
+    - Break down big projects into smaller deliverables, so you can complete parts of it if not the entire vision
+    - Don't overpromise future projects to the team when the roadmap isn't set in stone
+    - Dedicate 20% of the team's time to "sustaining engineering" (refactoring, bug fixes, cleanup, improving processes)
+    - Understand the value proposition of the various projects to decide which work is worth the effort
+- _"Projects change. Teams may even be disbanded or moved around in ways that you don’t understand or agree with. As a manager, the best thing you can do is help people feel capable of tying up loose ends, stabilizing the current in-flight projects, and easing into their new work in a controlled fashion. This is an area where you can and should push back."_
+- It is important to remain technically relevant as you:
+    -  oversee technical investment into systems in terms of new frameworks, languages, and infrastructure
+    -  ask informed questions to guide technical investment
+    -  understand (and explain) business tradeoffs, by identifying difficult features and unforeseen business implications
+    -  make specific requests of engineers and explain limitations to senior management
+-  How to remain technically relevant?
+    - Look over pull requests occasionally, spot places where the code may have become ugly
+    - Pick an unknown area and ask an engineer to explain it to you
+    - Attend postmortems and sprint retrospectives
+    - Keep up with industry trends and modern tooling
+    - Create a network of technical peers in engineering and engineering management outside the company
+    - Never stop learning  
