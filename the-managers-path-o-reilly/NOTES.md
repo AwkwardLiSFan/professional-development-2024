@@ -274,7 +274,7 @@ more challenging work"_
 
 ## The Big Leagues [&#8593;](#table-of-contents)
 
-- _"In his book High Output Management,1 Andy Grove breaks down management tasks into four general categories:"_
+- _"In his book High Output Management, Andy Grove breaks down management tasks into four general categories:"_
     - Information gathering: meetings, emails, one-on-ones, gathering perspectives
     - Nudging: gently reminding people of commitments to guide them in a direction without force
     - Decision making: balancing different perspectives and taking responsibility for decisions made, especially if they turn out poorly
