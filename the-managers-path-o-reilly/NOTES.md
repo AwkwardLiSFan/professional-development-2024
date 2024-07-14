@@ -10,6 +10,7 @@ Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Na
 - [Managing a Team](#managing-a-team-)
 - [Managing Multiple Teams](#managing-multiple-teams-)
 - [Managing Managers](#managing-managers-)
+- [The Big Leagues](#the-big-leagues-)
 
 ## Management 101 [&#8593;](#table-of-contents)
 - 1-on-1 Meetings
@@ -270,3 +271,50 @@ more challenging work"_
     - Keep up with industry trends and modern tooling
     - Create a network of technical peers in engineering and engineering management outside the company
     - Never stop learning  
+
+## The Big Leagues [&#8593;](#table-of-contents)
+
+- _"In his book High Output Management,1 Andy Grove breaks down management tasks into four general categories:"_
+    - Information gathering: meetings, emails, one-on-ones, gathering perspectives
+    - Nudging: gently reminding people of commitments to guide them in a direction without force
+    - Decision making: balancing different perspectives and taking responsibility for decisions made, especially if they turn out poorly
+    - Role modeling: Honour commitments, set an example for your team
+- Taxonomy of senior leadership roles
+    - R&D: focuses on expanding the use of cutting edge technology at the company
+    - Tech strategy: uses business and tech trends to guide decisions, often owns product development
+    - Organization: ensures adequate staffing
+    - Execution: helps plan roadmap, work, coordinate large efforts, prioritize
+    - Face of tech: senior leader to participates in conferences, client meetings to promote the product
+    - Technical Ops Manager: responsible for infrastructure - might be cost / security / scale focused
+    - Business executive: understands the industry and business functions at a high level
+- VP of Engineering:
+    - Usually the top end of management career for engineers
+    - Screens and hires new talent, maps development roadmap to hiring strategy
+    - In-charge of day-to-day operations of the teams
+    - Has a stake in organizational strategy, helping teams set goals to achieve business deliverables
+- CTO:
+    - _"Not a role most people who love coding, architecture, and deep technical design would enjoy doing."_ 
+    - _"CTO should be the strategic technical executive the company needs in its current stage of evolution."_
+    - Must understand the business and be able to shape the strategy through technological lens
+    - Protects the technology team from being purely an execution arm for company strategy, allowing room for their own tasks and ideas
+- Priorities can change, companies can decide to change focus and take on a new direction. It is your job to communicate this effectively to the team, and give them the time they need if they're working on finishing other work that is critical, such as stabilising a system, or a months-long project very close to completion.
+- Creating a technology strategy:
+    - Research current pain points, expected growth areas for senior management, current tech landscape and expected changes
+    - Combine research and ideas to draft a rough outline of the future
+    - Plan actionable ideas around points from earlier steps to grow the business and expand product features
+    - Prepare the presentation based on the Board's preferred communication style (e.g. sparse details on slides)
+    - _"The hardest part, in many ways, was getting started. The second-hardest part was getting comfortable making a guess about the future with highly imperfect information."_
+-  Communicating bad news (layoffs, change in strategy) can be challenging as a manager:
+    - Don't send an impersonal message to the entire group at once, they deserve to hear it coming from you personally
+    - Try to tailor the news individually for people expected to be most affected
+    - If you can't stand behind the message, don't force yourself to deliver it. Ask someone else to step in.
+    - Be honest about the likely outcomes
+    - Think about how you would like to be told, and follow that
+- It can be isolating to be the only engineer on a senior leadership team
+    - Disagreements with cross-functional peers should be taken up in 1-on-1s or leadership team meetings
+    - _"Disagreements that happen in the context of the leadership team don’t exist to the wider team."_
+- As a senior leader, you need to detach from your engineering team
+    - You're likely to be perceived as playing favourites if you are too close to the team
+    - Leading effectively requires people to take your words seriously, and they're less likely to do so if you maintain a "buddy" image
+- Be careful not to cultivate a culture of fear where engineers are reprimanded publicly for mistakes
+- "True North" is the core role of a senior leader in their area (CTO for tech, CFO for finance and so on): to set a baseline of what excellence in their area looks like     
