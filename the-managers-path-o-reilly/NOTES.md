@@ -11,6 +11,7 @@ Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Na
 - [Managing Multiple Teams](#managing-multiple-teams-)
 - [Managing Managers](#managing-managers-)
 - [The Big Leagues](#the-big-leagues-)
+- [Bootstrapping Culture](#bootstrapping-culture-)
 
 ## Management 101 [&#8593;](#table-of-contents)
 - 1-on-1 Meetings
@@ -318,3 +319,25 @@ more challenging work"_
     - Leading effectively requires people to take your words seriously, and they're less likely to do so if you maintain a "buddy" image
 - Be careful not to cultivate a culture of fear where engineers are reprimanded publicly for mistakes
 - "True North" is the core role of a senior leader in their area (CTO for tech, CFO for finance and so on): to set a baseline of what excellence in their area looks like     
+
+## Bootstrapping Culture [&#8593;](#table-of-contents)
+
+- _"If you want to create healthy teams, you need to have a sense of what is important to you, to your company, and to your growing group of colleagues."_
+- Early startups often forego traditional structure in favour of quicker decisions. Unstructured groups can work in certain circumstances, as described by Jo Freeman in a [feminist talk](https://www.jofreeman.com/joreen/tyranny.htm) at the Southern Female Rights Union in the 70s: 
+    - the group has a specific task as its focus
+    - the group is relatively small and homogenous, as too great a diversity in a task-oriented group can bring about miscommunication
+    - the group has a high degree of communication
+    - the group has a low degree of skill specialisation, making everyone capable of contributing
+- Structure is necessary to take on complex tasks - for instance, without structure, many early-stage startups suffer from spaghetti code
+- Structure must not come too early (imagine a group of five reporting to each other in a hierarchy) or too late (single decision maker continues to make calls and change his mind frequently even as the company scales)
+- The number of people at the company, its age, the industry it operates in (regulated / unregulated) determine its structure
+- _"A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work."_ (John Gall, _Systemantics)_
+- _"Culture is the generally unspoken shared rules of a community."_
+- _"It is to your advantage to create a culture that allows for bringing a broader range of people into your community. “Engineers who graduated from MIT” is not a culture."_
+- While we don't generally agree with every value held by our own friends and family, the more core values that overlap between you and the company you work for, the easier you'll find it to function at work, fit in, and feel accepted.
+- Applying culture:
+    - identify your values - subteams may have slightly different cultures (some are professional and work at strict times, others prefer late starts and avenues to hang out socially)
+    - reinforce culture by rewarding those who exhibit your values
+    - learn to spot those who may have a value misalignment, and coach them to overcome it where appropriate (for e.g. someone might be shy and reluctant to participate in a culture of shoutouts and positive company-wide recognition for colleagues)
+    - avoid hiring based on a "friendship" test - humans form friendships with those from a similar background (race, class, schooling etc) and while this shortcut may seem appealing it doesn't usually come with the values you would want in a strong team
+- Creating cultural policy documents can be a tough task, and what works for one company doesn't always translate directly to another  
