@@ -12,6 +12,7 @@ Notes and quotes from the book [The Manager's Path - A Guide for Tech Leaders Na
 - [Managing Managers](#managing-managers-)
 - [The Big Leagues](#the-big-leagues-)
 - [Bootstrapping Culture](#bootstrapping-culture-)
+- [Conclusion](#conclusion-)
 
 ## Management 101 [&#8593;](#table-of-contents)
 - 1-on-1 Meetings
@@ -341,3 +342,23 @@ more challenging work"_
     - learn to spot those who may have a value misalignment, and coach them to overcome it where appropriate (for e.g. someone might be shy and reluctant to participate in a culture of shoutouts and positive company-wide recognition for colleagues)
     - avoid hiring based on a "friendship" test - humans form friendships with those from a similar background (race, class, schooling etc) and while this shortcut may seem appealing it doesn't usually come with the values you would want in a strong team
 - Creating cultural policy documents can be a tough task, and what works for one company doesn't always translate directly to another  
+- Developing a career ladder:
+    - Enlist support of senior engineers and managers to review and propose changes
+    - Look for examples, and be detailed in the descriptions
+    - Provide many opportunities for advancement to early career professionals, and narrow salary bands to justify giving them raises while keeping your pay for all people at a certain level close to the same
+    - For fewer levels, use wide salary bands ($50-$100k for software engineer, $80-$150k for senior software engineer) to provide wiggle room for high performing talent to be compensated appropriately (a high performing mid level engineer could make more than a first-time senior dev with this setup, if desired)
+    - Split management and technical tracks
+    - Consider making leadership experience a mandatory requirement before promoting individuals to senior levels
+    - Be wise about making years of experience a barrier to promotion - this may be more pertinent for titles like staff engineer
+- Cross functional teams:
+    - Conway's Law: _"Organizations which design systems…are constrained to produce designs which are copies of the communication structures of these organizations"_
+    - Day to day work determined by needs of product roadmap, reporting structures still remain the same
+    - Subtly changes team structure, based on whether there is a focus on cutting edge technology or product by allowing either qualified engineers or people leaders to shine
+- Consider adding these processes as your team grows:
+    - Code reviews: be clear about expectations, use automated linters and do not leave style up for debate in reviews, keep an eye on the review backlog
+    - Outage postmortems: don't cast blame on others, identify factors that contributed to the incident, retain high-risk takeaways and be realistic about dropping some of them
+    - Architecture reviews: decide what warrants an architecture review (adoption of new framework / language, tooling), bring in the wider team who will be affected by the change onboard for the review
+ 
+## Conclusion [&#8593;](#table-of-contents)
+
+_Get curious!_
